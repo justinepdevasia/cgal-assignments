@@ -1,0 +1,7 @@
+/home/justine/cgal/cgal-justine/q2/build/CMakeFiles/edit_cache.dir
+/home/justine/cgal/cgal-justine/q2/build/CMakeFiles/rebuild_cache.dir
+/home/justine/cgal/cgal-justine/q2/build/CMakeFiles/cgal_check_build_system.dir
+/home/justine/cgal/cgal-justine/q2/build/CMakeFiles/ALL_CGAL_TARGETS.dir
+/home/justine/cgal/cgal-justine/q2/build/CMakeFiles/min.dir
+/home/justine/cgal/cgal-justine/q2/build/CMakeFiles/CGAL_Qt5_moc_and_resources.dir
+/home/justine/cgal/cgal-justine/q2/build/CMakeFiles/CGAL_Qt5_moc_and_resources_autogen.dir
